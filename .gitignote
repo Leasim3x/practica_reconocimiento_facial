@@ -1,0 +1,8 @@
+# Ignorar entornos virtuales
+venv/
+RFace/venv/
+RFaceDeep/venv/
+
+# Ignorar archivos grandes de librerías
+*.pyd
+*.dll
