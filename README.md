@@ -1,4 +1,7 @@
-**Intregrantes del equipo:**\n
-Jesus Manuel Quintana Antuna\n
-José Adrian Ortiz Lozano\n
+**Intregrantes del equipo:**
+
+Jesus Manuel Quintana Antuna
+
+José Adrian Ortiz Lozano
+
 Misael Manzanales Moreno
